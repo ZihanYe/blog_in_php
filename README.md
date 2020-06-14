@@ -1,6 +1,8 @@
 # blog_in_php
 A simple blog web application in PHP
 
+![demo](./static/images/demo.png)
+
 It supports user login and admin login. Admin and authors can post blogs.
 
 ## Usage
